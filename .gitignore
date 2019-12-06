@@ -29,6 +29,8 @@ pom.xml.releaseBackup
 pom.xml.next
 release.properties
 
+*.md
+
 ## Eclipse, Spring, and Gradle:
 .classpath
 .project
@@ -80,7 +82,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
+*.md
 ## RubyMotion:
 .dat*
 .repl_history
