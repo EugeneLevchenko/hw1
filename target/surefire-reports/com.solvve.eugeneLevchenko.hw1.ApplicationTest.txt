@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.solvve.eugeneLevchenko.hw1.ApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.306 s - in com.solvve.eugeneLevchenko.hw1.ApplicationTest

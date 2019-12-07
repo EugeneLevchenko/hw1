@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eea8cd06-cb8d-4580-a923-1aba2b2d85f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/solvve/eugeneLevchenko/hw1/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solvve/eugeneLevchenko/hw1/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/solvve/eugeneLevchenko/hw1/controller/HealthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solvve/eugeneLevchenko/hw1/controller/HealthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/solvve/eugeneLevchenko/hw1/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/solvve/eugeneLevchenko/hw1/ApplicationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="16" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UTXd5sT0eMcMY8hBM3a2kCm5x1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solvve.eugeneLevchenko.hw1.Application" />
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solvve.eugeneLevchenko.hw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solvve.eugeneLevchenko.hw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solvve.eugeneLevchenko.hw1" />
+      <option name="MAIN_CLASS_NAME" value="com.solvve.eugeneLevchenko.hw1.ApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solvve.eugeneLevchenko.hw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solvve.eugeneLevchenko.hw1" />
+      <option name="MAIN_CLASS_NAME" value="com.solvve.eugeneLevchenko.hw1.ApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solvve.eugeneLevchenko.hw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solvve.eugeneLevchenko.hw1" />
+      <option name="MAIN_CLASS_NAME" value="com.solvve.eugeneLevchenko.hw1.ApplicationTest" />
+      <option name="METHOD_NAME" value="shouldReturnStatusOK" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:com.solvve.eugeneLevchenko.hw1.ApplicationTest]" />
+      </uniqueIds>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.shouldReturnStatusOK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solvve.eugeneLevchenko.hw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solvve.eugeneLevchenko.hw1" />
+      <option name="MAIN_CLASS_NAME" value="com.solvve.eugeneLevchenko.hw1.ApplicationTest" />
+      <option name="METHOD_NAME" value="shouldReturnStatusOK" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.ApplicationTest.shouldReturnStatusOK" />
+        <item itemvalue="JUnit.ApplicationTest (1)" />
+        <item itemvalue="JUnit.ApplicationTest (2)" />
+        <item itemvalue="JUnit.ApplicationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eea8cd06-cb8d-4580-a923-1aba2b2d85f5" name="Default Changelist" comment="" />
+      <created>1575381642847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575381642847</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fdffw">
+      <created>1575652925603</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575652925603</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tt">
+      <created>1575652991773</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575652991773</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fdffw" />
+    <MESSAGE value="tt" />
+    <option name="LAST_COMMIT_MESSAGE" value="tt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575382076071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1575382076071" />
+    <state x="436" y="11" key="CommitChangelistDialog2" timestamp="1575652990799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1575652990799" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1575728499290">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575728499290" />
+    <state x="650" y="310" width="259" height="203" key="Github.ShareDialog" timestamp="1575652850811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="650" y="310" width="259" height="203" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1575652850811" />
+    <state x="566" y="121" key="Github.UntrackedFilesDialog" timestamp="1575651140032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="121" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1575651140032" />
+    <state width="1492" height="91" key="GridCell.Tab.0.bottom" timestamp="1575728556105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="91" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575728556105" />
+    <state width="1492" height="91" key="GridCell.Tab.0.center" timestamp="1575728556105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="91" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575728556104" />
+    <state width="1492" height="91" key="GridCell.Tab.0.left" timestamp="1575728556104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="91" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575728556104" />
+    <state width="1492" height="91" key="GridCell.Tab.0.right" timestamp="1575728556105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="91" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575728556105" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1575728374322">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575728374322" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1575652994229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1575652994229" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hw1$ApplicationTest_shouldReturnStatusOK.ic" NAME="ApplicationTest.shouldReturnStatusOK Coverage Results" MODIFIED="1575388889173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.solvve.eugeneLevchenko.hw1.*</FILTER>
+    </SUITE>
+  </component>
+</project>
